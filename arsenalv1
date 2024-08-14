@@ -22,7 +22,7 @@ Main.DisplayOrder = 9999
 
 Loader.Name = "Loader"
 Loader.Parent = Main
-Loader.BackgroundColor3 = Color3.fromRGB(29, 29, 29)
+Loader.BackgroundColor3 = Color3.fromRGB(240, 127, 127)
 Loader.BackgroundTransparency = 0.200
 Loader.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Loader.BorderSizePixel = 0
@@ -62,7 +62,7 @@ ret4keloader.TextTransparency = 1
 
 Bar.Name = "Bar"
 Bar.Parent = Loader
-Bar.BackgroundColor3 = Color3.fromRGB(84, 84, 84)
+Bar.BackgroundColor3 = Color3.fromRGB(173, 55, 55)
 Bar.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Bar.BorderSizePixel = 0
 Bar.Position = UDim2.new(0.128272906, 0, 0.75, 0)
@@ -206,7 +206,7 @@ ping.TextTransparency = 1.000
 Basic.Name = "Basic"
 Basic.Parent = Main
 Basic.Active = true
-Basic.BackgroundColor3 = Color3.fromRGB(29, 29, 29)
+Basic.BackgroundColor3 = Color3.fromRGB(240, 125, 125)
 Basic.BackgroundTransparency = 0.200
 Basic.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Basic.BorderSizePixel = 0
@@ -270,7 +270,7 @@ UICorner_4.Parent = Blurred
 
 EspEnable.Name = "EspEnable"
 EspEnable.Parent = Basic
-EspEnable.BackgroundColor3 = Color3.fromRGB(148, 148, 148)
+EspEnable.BackgroundColor3 = Color3.fromRGB(156, 14, 14)
 EspEnable.BackgroundTransparency = 1.000
 EspEnable.BorderColor3 = Color3.fromRGB(0, 0, 0)
 EspEnable.BorderSizePixel = 0
@@ -280,7 +280,7 @@ EspEnable.Image = "http://www.roblox.com/asset/?id=1264513374"
 
 TeamCheck.Name = "TeamCheck"
 TeamCheck.Parent = Basic
-TeamCheck.BackgroundColor3 = Color3.fromRGB(148, 148, 148)
+TeamCheck.BackgroundColor3 = Color3.fromRGB(156, 14, 14)
 TeamCheck.BackgroundTransparency = 1.000
 TeamCheck.BorderColor3 = Color3.fromRGB(0, 0, 0)
 TeamCheck.BorderSizePixel = 0
@@ -290,7 +290,7 @@ TeamCheck.Image = "http://www.roblox.com/asset/?id=1264513374"
 
 AimEnable.Name = "AimEnable"
 AimEnable.Parent = Basic
-AimEnable.BackgroundColor3 = Color3.fromRGB(148, 148, 148)
+AimEnable.BackgroundColor3 = Color3.fromRGB(156, 14, 14)
 AimEnable.BackgroundTransparency = 1.000
 AimEnable.BorderColor3 = Color3.fromRGB(0, 0, 0)
 AimEnable.BorderSizePixel = 0
@@ -313,7 +313,7 @@ TeamText.TextSize = 10.000
 
 TeamCheck2.Name = "TeamCheck2"
 TeamCheck2.Parent = Basic
-TeamCheck2.BackgroundColor3 = Color3.fromRGB(148, 148, 148)
+TeamCheck2.BackgroundColor3 = Color3.fromRGB(156, 14, 14)
 TeamCheck2.BackgroundTransparency = 1.000
 TeamCheck2.BorderColor3 = Color3.fromRGB(0, 0, 0)
 TeamCheck2.BorderSizePixel = 0
@@ -336,7 +336,7 @@ TeamText2.TextSize = 10.000
 
 NameTogle.Name = "NameTogle"
 NameTogle.Parent = Basic
-NameTogle.BackgroundColor3 = Color3.fromRGB(148, 148, 148)
+NameTogle.BackgroundColor3 = Color3.fromRGB(156, 14, 14)
 NameTogle.BackgroundTransparency = 1.000
 NameTogle.BorderColor3 = Color3.fromRGB(0, 0, 0)
 NameTogle.BorderSizePixel = 0
@@ -421,7 +421,7 @@ AimbotText.TextSize = 10.000
 
 InfJump.Name = "InfJump"
 InfJump.Parent = Basic
-InfJump.BackgroundColor3 = Color3.fromRGB(148, 148, 148)
+InfJump.BackgroundColor3 = Color3.fromRGB(156, 14, 14)
 InfJump.BackgroundTransparency = 1.000
 InfJump.BorderColor3 = Color3.fromRGB(0, 0, 0)
 InfJump.BorderSizePixel = 0
@@ -485,7 +485,7 @@ meo.Parent = GunsM
 
 SilentAim.Name = "SilentAim"
 SilentAim.Parent = Basic
-SilentAim.BackgroundColor3 = Color3.fromRGB(148, 148, 148)
+SilentAim.BackgroundColor3 = Color3.fromRGB(156, 14, 14)
 SilentAim.BackgroundTransparency = 1.000
 SilentAim.BorderColor3 = Color3.fromRGB(0, 0, 0)
 SilentAim.BorderSizePixel = 0
@@ -521,7 +521,7 @@ SpeedText.TextSize = 10.000
 
 SpeedHack.Name = "SpeedHack"
 SpeedHack.Parent = Basic
-SpeedHack.BackgroundColor3 = Color3.fromRGB(148, 148, 148)
+SpeedHack.BackgroundColor3 = Color3.fromRGB(156, 14, 14)
 SpeedHack.BackgroundTransparency = 1.000
 SpeedHack.BorderColor3 = Color3.fromRGB(0, 0, 0)
 SpeedHack.BorderSizePixel = 0
@@ -599,7 +599,7 @@ UICorner_8.Parent = bloor
 
 InfAmmo.Name = "InfAmmo"
 InfAmmo.Parent = Mods
-InfAmmo.BackgroundColor3 = Color3.fromRGB(148, 148, 148)
+InfAmmo.BackgroundColor3 = Color3.fromRGB(156, 14, 14)
 InfAmmo.BackgroundTransparency = 1.000
 InfAmmo.BorderColor3 = Color3.fromRGB(0, 0, 0)
 InfAmmo.BorderSizePixel = 0
@@ -622,7 +622,7 @@ AmmoText.TextSize = 10.000
 
 FFSpeed.Name = "FFSpeed"
 FFSpeed.Parent = Mods
-FFSpeed.BackgroundColor3 = Color3.fromRGB(148, 148, 148)
+FFSpeed.BackgroundColor3 = Color3.fromRGB(156, 14, 14)
 FFSpeed.BackgroundTransparency = 1.000
 FFSpeed.BorderColor3 = Color3.fromRGB(0, 0, 0)
 FFSpeed.BorderSizePixel = 0
@@ -645,7 +645,7 @@ FFSpeedText.TextSize = 10.000
 
 Recoil.Name = "Recoil"
 Recoil.Parent = Mods
-Recoil.BackgroundColor3 = Color3.fromRGB(148, 148, 148)
+Recoil.BackgroundColor3 = Color3.fromRGB(156, 14, 14)
 Recoil.BackgroundTransparency = 1.000
 Recoil.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Recoil.BorderSizePixel = 0
