@@ -307,7 +307,7 @@ TeamText.BorderSizePixel = 0
 TeamText.Position = UDim2.new(0.450395137, 0, 0.424177229, 0)
 TeamText.Size = UDim2.new(0, 111, 0, 23)
 TeamText.Font = Enum.Font.JosefinSans
-TeamText.Text = "Dont Show Teammates"
+TeamText.Text = "Hide Teammates"
 TeamText.TextColor3 = Color3.fromRGB(255, 255, 255)
 TeamText.TextSize = 10.000
 
@@ -330,7 +330,7 @@ TeamText2.BorderSizePixel = 0
 TeamText2.Position = UDim2.new(-0.0303951371, 0, 0.418177217, 0)
 TeamText2.Size = UDim2.new(0, 111, 0, 23)
 TeamText2.Font = Enum.Font.JosefinSans
-TeamText2.Text = "Dont Show Teammates"
+TeamText2.Text = "Hide Teammates"
 TeamText2.TextColor3 = Color3.fromRGB(255, 255, 255)
 TeamText2.TextSize = 10.000
 
@@ -353,7 +353,7 @@ Namet.BorderSizePixel = 0
 Namet.Position = UDim2.new(-0.0303951371, 0, 0.602177203, 0)
 Namet.Size = UDim2.new(0, 111, 0, 23)
 Namet.Font = Enum.Font.JosefinSans
-Namet.Text = "Show FOV Circle"
+Namet.Text = "FOV Circle"
 Namet.TextColor3 = Color3.fromRGB(255, 255, 255)
 Namet.TextSize = 10.000
 
@@ -415,7 +415,7 @@ AimbotText.BorderSizePixel = 0
 AimbotText.Position = UDim2.new(0.450395137, 0, 0.231177211, 0)
 AimbotText.Size = UDim2.new(0, 111, 0, 23)
 AimbotText.Font = Enum.Font.JosefinSans
-AimbotText.Text = "Softaim (Headshot only)"
+AimbotText.Text = "Aimbot"
 AimbotText.TextColor3 = Color3.fromRGB(255, 255, 255)
 AimbotText.TextSize = 10.000
 
